@@ -1,0 +1,1150 @@
+{
+  "year": "2022학년도",
+  "source_file": "2022.pdf",
+  "problems": [
+    {
+      "number": 1,
+      "question": "질문 placeholder",
+      "passage": "지문 placeholder",
+      "has_box": true,
+      "box_content": "보기 placeholder",
+      "options": [
+        "선지1",
+        "선지2",
+        "선지3",
+        "선지4",
+        "선지5"
+      ],
+      "category_eval": "논증 평가",
+      "category_content": "법학·규범",
+      "subcategory": "법적 책임과 신경과학 논증 평가",
+      "trap_category": "법의 관심 대상(형이상학적 자유의지 vs 최소한의 합리성) 혼동",
+      "trap_keywords": [
+        "법의 기준 확인",
+        "강화·약화 방향 주의"
+      ],
+      "image_path": "/data/images/2022_p1_left.jpg",
+      "answer": 1,
+      "category_detail_types": [
+        "5. 강화 약화 유형",
+        "4. 논증 구조 유형"
+      ],
+      "has_statute": false
+    },
+    {
+      "number": 2,
+      "question": "질문 placeholder",
+      "passage": "지문 placeholder",
+      "has_box": true,
+      "box_content": "보기 placeholder",
+      "options": [
+        "선지1",
+        "선지2",
+        "선지3",
+        "선지4",
+        "선지5"
+      ],
+      "category_eval": "분석 및 재구성",
+      "category_content": "법학·규범",
+      "subcategory": "법해석 방법론(법의 발견/법의 형성, 축소해석/목적론적 축소)",
+      "trap_category": "중립적 후보와 적극적 후보를 구분하지 못하게 하는 법해석 유형 혼동",
+      "trap_keywords": [
+        "중립·적극·소극 후보 구분",
+        "축소해석과 목적론적 축소 구별"
+      ],
+      "image_path": "/data/images/2022_p1_right.jpg",
+      "answer": 2,
+      "category_detail_types": [
+        "2-2. 규정을 상황에 적용하는 유형"
+      ],
+      "has_statute": false
+    },
+    {
+      "number": 3,
+      "question": "질문 placeholder",
+      "passage": "지문 placeholder",
+      "has_box": true,
+      "box_content": "보기 placeholder",
+      "options": [
+        "선지1",
+        "선지2",
+        "선지3",
+        "선지4",
+        "선지5"
+      ],
+      "category_eval": "분석 및 재구성",
+      "category_content": "법학·규범",
+      "subcategory": "위헌판단 기준 적용",
+      "trap_category": "위헌판단 기준 ㉠·㉡·㉢의 대상 혼동",
+      "trap_keywords": [
+        "판단 기준별 결론 분리",
+        "입법목적과 사회적 효과 구분"
+      ],
+      "image_path": "/data/images/2022_p2_left.jpg",
+      "answer": 2,
+      "category_detail_types": [
+        "3. 상황 적용 유형",
+        "1-1. 의견 대립 유형(일반 단선)"
+      ],
+      "has_statute": false
+    },
+    {
+      "number": 4,
+      "question": "질문 placeholder",
+      "passage": "지문 placeholder",
+      "has_box": false,
+      "box_content": "",
+      "options": [
+        "선지1",
+        "선지2",
+        "선지3",
+        "선지4",
+        "선지5"
+      ],
+      "category_eval": "분석 및 재구성",
+      "category_content": "법학·규범",
+      "subcategory": "규정 적용형",
+      "trap_category": "벌점 소멸과 면허정지 중 2배 배점 및 추가 정지처분의 순차 집행 혼동",
+      "trap_keywords": [
+        "소멸 시점 확인",
+        "정지 중 위반 2배 주의"
+      ],
+      "image_path": "/data/images/2022_p2_right.jpg",
+      "answer": 4,
+      "category_detail_types": [
+        "2-2. 규정을 상황에 적용하는 유형",
+        "7. 퀴즈 유형"
+      ],
+      "has_statute": true
+    },
+    {
+      "number": 5,
+      "question": "질문 placeholder",
+      "passage": "지문 placeholder",
+      "has_box": true,
+      "box_content": "보기 placeholder",
+      "options": [
+        "선지1",
+        "선지2",
+        "선지3",
+        "선지4",
+        "선지5"
+      ],
+      "category_eval": "분석 및 재구성",
+      "category_content": "법학·규범",
+      "subcategory": "배상 논증 분석",
+      "trap_category": "반사실 조건과 동일성 문제 혼동",
+      "trap_keywords": [
+        "반사실 비교 주의",
+        "잘못의 시점 구분"
+      ],
+      "image_path": "/data/images/2022_p3_left.jpg",
+      "answer": 1,
+      "category_detail_types": [
+        "1-2. 의견 대립 유형(논쟁 전개 및 재반박형)",
+        "4. 논증 구조 유형"
+      ],
+      "has_statute": false
+    },
+    {
+      "number": 6,
+      "question": "질문 placeholder",
+      "passage": "지문 placeholder",
+      "has_box": true,
+      "box_content": "보기 placeholder",
+      "options": [
+        "선지1",
+        "선지2",
+        "선지3",
+        "선지4",
+        "선지5"
+      ],
+      "category_eval": "분석 및 재구성",
+      "category_content": "법학·규범",
+      "subcategory": "개인정보 규정 적용",
+      "trap_category": "제3자 제공과 업무위탁의 구별 및 별도 동의·고지 기간 혼동",
+      "trap_keywords": [
+        "위탁과 제3자 구별",
+        "1주일 이내 고지 확인"
+      ],
+      "image_path": "/data/images/2022_p3_right.jpg",
+      "answer": 1,
+      "category_detail_types": [
+        "2-2. 규정을 상황에 적용하는 유형"
+      ],
+      "has_statute": true
+    },
+    {
+      "number": 7,
+      "question": "질문 placeholder",
+      "passage": "지문 placeholder",
+      "has_box": true,
+      "box_content": "보기 placeholder",
+      "options": [
+        "선지1",
+        "선지2",
+        "선지3",
+        "선지4",
+        "선지5"
+      ],
+      "category_eval": "추론",
+      "category_content": "사회과학",
+      "subcategory": "조건 적용형 혈중알코올농도 공식 추론",
+      "trap_category": "상승기·하강기 적용 가능성 및 최유리한 분해율 대입 혼동",
+      "trap_keywords": [
+        "상승기 여부 먼저 확인",
+        "최소 분해율 대입 주의"
+      ],
+      "image_path": "/data/images/2022_p4_left.jpg",
+      "answer": 4,
+      "category_detail_types": [
+        "2-2. 규정을 상황에 적용하는 유형",
+        "7. 퀴즈 유형"
+      ],
+      "has_statute": false
+    },
+    {
+      "number": 8,
+      "question": "질문 placeholder",
+      "passage": "지문 placeholder",
+      "has_box": true,
+      "box_content": "보기 placeholder",
+      "options": [
+        "선지1",
+        "선지2",
+        "선지3",
+        "선지4",
+        "선지5"
+      ],
+      "category_eval": "논증 평가",
+      "category_content": "법학·규범",
+      "subcategory": "규정 개정 검토의견 평가",
+      "trap_category": "근거가 각 의견의 결론을 실제로 지지하는지와 복수 의견 동시 지지 여부 혼동",
+      "trap_keywords": [
+        "결론 직접 지지 확인",
+        "주체·요건 구분"
+      ],
+      "image_path": "/data/images/2022_p4_right.jpg",
+      "answer": 2,
+      "category_detail_types": [
+        "5. 강화 약화 유형",
+        "2-3. 규정에 대한 의견 대립 유형"
+      ],
+      "has_statute": true
+    },
+    {
+      "number": 9,
+      "question": "질문 placeholder",
+      "passage": "지문 placeholder",
+      "has_box": true,
+      "box_content": "보기 placeholder",
+      "options": [
+        "선지1",
+        "선지2",
+        "선지3",
+        "선지4",
+        "선지5"
+      ],
+      "category_eval": "분석 및 재구성",
+      "category_content": "법학·규범",
+      "subcategory": "규정 적용형 법률판단",
+      "trap_category": "동의 유무·가격 비교·원상회복 예외의 중첩 적용",
+      "trap_keywords": [
+        "동의 여부 먼저",
+        "가격 비교와 제3조 확인"
+      ],
+      "image_path": "/data/images/2022_p5_left.jpg",
+      "answer": 1,
+      "category_detail_types": [
+        "2-2. 규정을 상황에 적용하는 유형"
+      ],
+      "has_statute": true
+    },
+    {
+      "number": 10,
+      "question": "질문 placeholder",
+      "passage": "지문 placeholder",
+      "has_box": false,
+      "box_content": "",
+      "options": [
+        "선지1",
+        "선지2",
+        "선지3",
+        "선지4",
+        "선지5"
+      ],
+      "category_eval": "분석 및 재구성",
+      "category_content": "법학·규범",
+      "subcategory": "입법안 비교 분석",
+      "trap_category": "구성요건 해당 여부와 처벌 수위 비교의 혼동",
+      "trap_keywords": [
+        "유포 정의 확인",
+        "행위별 조문 분리"
+      ],
+      "image_path": "/data/images/2022_p5_right.jpg",
+      "answer": 5,
+      "category_detail_types": [
+        "2-2. 규정을 상황에 적용하는 유형"
+      ],
+      "has_statute": true
+    },
+    {
+      "number": 11,
+      "question": "질문 placeholder",
+      "passage": "지문 placeholder",
+      "has_box": false,
+      "box_content": "",
+      "options": [
+        "선지1",
+        "선지2",
+        "선지3",
+        "선지4",
+        "선지5"
+      ],
+      "category_eval": "분석 및 재구성",
+      "category_content": "법학·규범",
+      "subcategory": "국적·영역에 따른 형벌 적용과 경합범 계산",
+      "trap_category": "국적 정의와 영역별 적용범위, 경합범 가중방식 혼동",
+      "trap_keywords": [
+        "내국인 정의 확인",
+        "범죄 횟수별 가중 구분"
+      ],
+      "image_path": "/data/images/2022_p6_left.jpg",
+      "answer": 2,
+      "category_detail_types": [
+        "2-2. 규정을 상황에 적용하는 유형",
+        "7. 퀴즈 유형"
+      ],
+      "has_statute": true
+    },
+    {
+      "number": 12,
+      "question": "질문 placeholder",
+      "passage": "지문 placeholder",
+      "has_box": true,
+      "box_content": "보기 placeholder",
+      "options": [
+        "선지1",
+        "선지2",
+        "선지3",
+        "선지4",
+        "선지5"
+      ],
+      "category_eval": "분석 및 재구성",
+      "category_content": "법학·규범",
+      "subcategory": "개념 정의 논쟁 분석",
+      "trap_category": "필요조건·충분조건 및 적법성/주관적 가치 기준 혼동",
+      "trap_keywords": [
+        "기준별 입장 구분",
+        "필요·충분 구별"
+      ],
+      "image_path": "/data/images/2022_p6_right.jpg",
+      "answer": 3,
+      "category_detail_types": [
+        "1-1. 의견 대립 유형(일반 단선)"
+      ],
+      "has_statute": false
+    },
+    {
+      "number": 13,
+      "question": "질문 placeholder",
+      "passage": "지문 placeholder",
+      "has_box": true,
+      "box_content": "보기 placeholder",
+      "options": [
+        "선지1",
+        "선지2",
+        "선지3",
+        "선지4",
+        "선지5"
+      ],
+      "category_eval": "분석 및 재구성",
+      "category_content": "법학·규범",
+      "subcategory": "국제사법 규정 적용",
+      "trap_category": "혼인 적령은 각자 본국법만, 중혼·동성혼은 쌍방 본국법 모두 적용",
+      "trap_keywords": [
+        "적령·중혼 구분",
+        "쌍방 본국법 확인"
+      ],
+      "image_path": "/data/images/2022_p7_left.jpg",
+      "answer": 3,
+      "category_detail_types": [
+        "2-2. 규정을 상황에 적용하는 유형",
+        "7. 퀴즈 유형"
+      ],
+      "has_statute": true
+    },
+    {
+      "number": 14,
+      "question": "질문 placeholder",
+      "passage": "지문 placeholder",
+      "has_box": false,
+      "box_content": "",
+      "options": [
+        "선지1",
+        "선지2",
+        "선지3",
+        "선지4",
+        "선지5"
+      ],
+      "category_eval": "분석 및 재구성",
+      "category_content": "법학·규범",
+      "subcategory": "규정 적용형 지분 보유 제한",
+      "trap_category": "사실상 동일인 범위와 간접보유 합산의 누락",
+      "trap_keywords": [
+        "합산 주체 확인",
+        "50% 이상 기준 주의"
+      ],
+      "image_path": "/data/images/2022_p7_right.jpg",
+      "answer": 5,
+      "category_detail_types": [
+        "2-2. 규정을 상황에 적용하는 유형"
+      ],
+      "has_statute": true
+    },
+    {
+      "number": 15,
+      "question": "질문 placeholder",
+      "passage": "지문 placeholder",
+      "has_box": true,
+      "box_content": "보기 placeholder",
+      "options": [
+        "선지1",
+        "선지2",
+        "선지3",
+        "선지4",
+        "선지5"
+      ],
+      "category_eval": "분석 및 재구성",
+      "category_content": "법학·규범",
+      "subcategory": "도덕적 무지와 비난가능성에 대한 견해 비교",
+      "trap_category": "사실에 대한 무지와 도덕에 대한 무지를 구분하지 못하게 하는 함정",
+      "trap_keywords": [
+        "A·B 기준 분리",
+        "행위와 성품 구분"
+      ],
+      "image_path": "/data/images/2022_p8_left.jpg",
+      "answer": 4,
+      "category_detail_types": [
+        "1-1. 의견 대립 유형(일반 단선)",
+        "3. 상황 적용 유형"
+      ],
+      "has_statute": false
+    },
+    {
+      "number": 16,
+      "question": "질문 placeholder",
+      "passage": "지문 placeholder",
+      "has_box": true,
+      "box_content": "보기 placeholder",
+      "options": [
+        "선지1",
+        "선지2",
+        "선지3",
+        "선지4",
+        "선지5"
+      ],
+      "category_eval": "분석 및 재구성",
+      "category_content": "인문학",
+      "subcategory": "고대철학 대화문 논증 분석",
+      "trap_category": "알고 있음/모르고 있음의 이분법을 참·거짓 판단 가능성과 혼동하는 함정",
+      "trap_keywords": [
+        "이분법 전제 확인",
+        "가능/불가능 구분"
+      ],
+      "image_path": "/data/images/2022_p8_right.jpg",
+      "answer": 4,
+      "category_detail_types": [
+        "4. 논증 구조 유형"
+      ],
+      "has_statute": false
+    },
+    {
+      "number": 17,
+      "question": "질문 placeholder",
+      "passage": "지문 placeholder",
+      "has_box": true,
+      "box_content": "보기 placeholder",
+      "options": [
+        "선지1",
+        "선지2",
+        "선지3",
+        "선지4",
+        "선지5"
+      ],
+      "category_eval": "분석 및 재구성",
+      "category_content": "법학·규범",
+      "subcategory": "철학적 주장 비교·평가",
+      "trap_category": "입장 차이 과장 및 공통 주장 누락",
+      "trap_keywords": [
+        "공통 결론 확인",
+        "근거와 결론 구분"
+      ],
+      "image_path": "/data/images/2022_p9_left.jpg",
+      "answer": 5,
+      "category_detail_types": [
+        "1-2. 의견 대립 유형(논쟁 전개 및 재반박형)"
+      ],
+      "has_statute": false
+    },
+    {
+      "number": 18,
+      "question": "질문 placeholder",
+      "passage": "지문 placeholder",
+      "has_box": true,
+      "box_content": "보기 placeholder",
+      "options": [
+        "선지1",
+        "선지2",
+        "선지3",
+        "선지4",
+        "선지5"
+      ],
+      "category_eval": "분석 및 재구성",
+      "category_content": "논리학·수학",
+      "subcategory": "논증 분석",
+      "trap_category": "필요조건·충분조건 혼동과 인과관계 오판",
+      "trap_keywords": [
+        "전제-결론 연결 확인",
+        "인과 주장 일반화 주의"
+      ],
+      "image_path": "/data/images/2022_p9_right.jpg",
+      "answer": 1,
+      "category_detail_types": [
+        "4. 논증 구조 유형",
+        "1-1. 의견 대립 유형(일반 단선)"
+      ],
+      "has_statute": false
+    },
+    {
+      "number": 19,
+      "question": "질문 placeholder",
+      "passage": "지문 placeholder",
+      "has_box": true,
+      "box_content": "보기 placeholder",
+      "options": [
+        "선지1",
+        "선지2",
+        "선지3",
+        "선지4",
+        "선지5"
+      ],
+      "category_eval": "논증 평가",
+      "category_content": "인문학",
+      "subcategory": "실험 결과 해석과 가설 강화",
+      "trap_category": "상관관계를 독해 경향 및 의견 일치로 성급히 연결하는 강화 판단",
+      "trap_keywords": [
+        "①과 ②를 분리",
+        "응답 오류 영향 점검"
+      ],
+      "image_path": "/data/images/2022_p10_left.jpg",
+      "answer": 5,
+      "category_detail_types": [
+        "5. 강화 약화 유형",
+        "9. 과학실험유형"
+      ],
+      "has_statute": false
+    },
+    {
+      "number": 20,
+      "question": "질문 placeholder",
+      "passage": "지문 placeholder",
+      "has_box": false,
+      "box_content": "",
+      "options": [
+        "선지1",
+        "선지2",
+        "선지3",
+        "선지4",
+        "선지5"
+      ],
+      "category_eval": "추론",
+      "category_content": "인문학",
+      "subcategory": "언어철학·지표사",
+      "trap_category": "지시 대상 동일성과 언어적 의미 동일성을 혼동하는 함정",
+      "trap_keywords": [
+        "지시 대상과 의미 구분",
+        "발화 맥락 확인"
+      ],
+      "image_path": "/data/images/2022_p10_right.jpg",
+      "answer": 2,
+      "category_detail_types": [
+        "10. 기타 추론 유형",
+        "4. 논증 구조 유형"
+      ],
+      "has_statute": false
+    },
+    {
+      "number": 21,
+      "question": "질문 placeholder",
+      "passage": "지문 placeholder",
+      "has_box": true,
+      "box_content": "보기 placeholder",
+      "options": [
+        "선지1",
+        "선지2",
+        "선지3",
+        "선지4",
+        "선지5"
+      ],
+      "category_eval": "분석 및 재구성",
+      "category_content": "인문학",
+      "subcategory": "언어철학 논증 분석",
+      "trap_category": "일부 허구 작품에 대한 주장과 모든 허구 작품에 대한 일반화를 혼동하는 함정",
+      "trap_keywords": [
+        "일부·전체 구분",
+        "필요한 가정만 확인"
+      ],
+      "image_path": "/data/images/2022_p11_left.jpg",
+      "answer": 3,
+      "category_detail_types": [
+        "4. 논증 구조 유형"
+      ],
+      "has_statute": false
+    },
+    {
+      "number": 22,
+      "question": "질문 placeholder",
+      "passage": "지문 placeholder",
+      "has_box": true,
+      "box_content": "보기 placeholder",
+      "options": [
+        "선지1",
+        "선지2",
+        "선지3",
+        "선지4",
+        "선지5"
+      ],
+      "category_eval": "분석 및 재구성",
+      "category_content": "논리학·수학",
+      "subcategory": "논쟁 구조 분석·명제 동일성",
+      "trap_category": "문장과 명제의 구분 및 진정한 논쟁의 필요조건 혼동",
+      "trap_keywords": [
+        "문장/명제 구분",
+        "필요조건 여부 주의"
+      ],
+      "image_path": "/data/images/2022_p11_right.jpg",
+      "answer": 4,
+      "category_detail_types": [
+        "1-2. 의견 대립 유형(논쟁 전개 및 재반박형)"
+      ],
+      "has_statute": false
+    },
+    {
+      "number": 23,
+      "question": "질문 placeholder",
+      "passage": "지문 placeholder",
+      "has_box": true,
+      "box_content": "보기 placeholder",
+      "options": [
+        "선지1",
+        "선지2",
+        "선지3",
+        "선지4",
+        "선지5"
+      ],
+      "category_eval": "추론",
+      "category_content": "논리학·수학",
+      "subcategory": "언어철학·번역의 의미 보존",
+      "trap_category": "인용된 표현 자체와 대상 사물에 대한 언급을 혼동하는 함정",
+      "trap_keywords": [
+        "인용부호 안팎 구분",
+        "진리값 일치와 의미보존 구분"
+      ],
+      "image_path": "/data/images/2022_p12_left.jpg",
+      "answer": 4,
+      "category_detail_types": [
+        "10. 기타 추론 유형"
+      ],
+      "has_statute": false
+    },
+    {
+      "number": 24,
+      "question": "질문 placeholder",
+      "passage": "지문 placeholder",
+      "has_box": false,
+      "box_content": "",
+      "options": [
+        "선지1",
+        "선지2",
+        "선지3",
+        "선지4",
+        "선지5"
+      ],
+      "category_eval": "분석 및 재구성",
+      "category_content": "법학·규범",
+      "subcategory": "행위의 합리성 평가 입장 조합",
+      "trap_category": "주관/객관과 내재/외재의 독립적 결합 및 사례별 적용 혼동",
+      "trap_keywords": [
+        "평가축 분리",
+        "목적·수단 구분"
+      ],
+      "image_path": "/data/images/2022_p12_right.jpg",
+      "answer": 1,
+      "category_detail_types": [
+        "3. 상황 적용 유형"
+      ],
+      "has_statute": false
+    },
+    {
+      "number": 25,
+      "question": "질문 placeholder",
+      "passage": "지문 placeholder",
+      "has_box": true,
+      "box_content": "보기 placeholder",
+      "options": [
+        "선지1",
+        "선지2",
+        "선지3",
+        "선지4",
+        "선지5"
+      ],
+      "category_eval": "분석 및 재구성",
+      "category_content": "인문학",
+      "subcategory": "합리성 관점 비교와 상황 적용",
+      "trap_category": "이상적 합리성과 환경적 합리성의 기준 혼동",
+      "trap_keywords": [
+        "관점별 합리성 기준 구분",
+        "행위 결과와 판단 기준 분리"
+      ],
+      "image_path": "/data/images/2022_p13_left.jpg",
+      "answer": 3,
+      "category_detail_types": [
+        "3. 상황 적용 유형",
+        "1-1. 의견 대립 유형(일반 단선)"
+      ],
+      "has_statute": false
+    },
+    {
+      "number": 26,
+      "question": "질문 placeholder",
+      "passage": "지문 placeholder",
+      "has_box": true,
+      "box_content": "보기 placeholder",
+      "options": [
+        "선지1",
+        "선지2",
+        "선지3",
+        "선지4",
+        "선지5"
+      ],
+      "category_eval": "분석 및 재구성",
+      "category_content": "법학·규범",
+      "subcategory": "행위조합의 결과값과 용인 조건 비교",
+      "trap_category": "가능한 조합과 현실에서 선택하려는 조합의 범위 혼동",
+      "trap_keywords": [
+        "조합 범위 구분",
+        "0 이상 조합 계산"
+      ],
+      "image_path": "/data/images/2022_p13_right.jpg",
+      "answer": 2,
+      "category_detail_types": [
+        "2-2. 규정을 상황에 적용하는 유형",
+        "7. 퀴즈 유형"
+      ],
+      "has_statute": false
+    },
+    {
+      "number": 27,
+      "question": "질문 placeholder",
+      "passage": "지문 placeholder",
+      "has_box": true,
+      "box_content": "보기 placeholder",
+      "options": [
+        "선지1",
+        "선지2",
+        "선지3",
+        "선지4",
+        "선지5"
+      ],
+      "category_eval": "추론",
+      "category_content": "사회과학",
+      "subcategory": "지표·공식 해석",
+      "trap_category": "WDQ 부호와 크기를 혜택확산·범죄전이의 상대적 크기로 잘못 대응시키는 함정",
+      "trap_keywords": [
+        "분자·분모 부호 구분",
+        "-1·0·1 의미 확인"
+      ],
+      "image_path": "/data/images/2022_p14_left.jpg",
+      "answer": 3,
+      "category_detail_types": [
+        "6. 그래프 해석 유형",
+        "2-2. 규정을 상황에 적용하는 유형"
+      ],
+      "has_statute": false
+    },
+    {
+      "number": 28,
+      "question": "질문 placeholder",
+      "passage": "지문 placeholder",
+      "has_box": true,
+      "box_content": "보기 placeholder",
+      "options": [
+        "선지1",
+        "선지2",
+        "선지3",
+        "선지4",
+        "선지5"
+      ],
+      "category_eval": "분석 및 재구성",
+      "category_content": "사회과학",
+      "subcategory": "실험 설계 평가",
+      "trap_category": "가설과 실험변수의 대응 혼동",
+      "trap_keywords": [
+        "통제변수 확인",
+        "강화·약화 방향 주의"
+      ],
+      "image_path": "/data/images/2022_p14_right.jpg",
+      "answer": 2,
+      "category_detail_types": [
+        "5. 강화 약화 유형",
+        "9. 과학실험유형"
+      ],
+      "has_statute": false
+    },
+    {
+      "number": 29,
+      "question": "질문 placeholder",
+      "passage": "지문 placeholder",
+      "has_box": true,
+      "box_content": "보기 placeholder",
+      "options": [
+        "선지1",
+        "선지2",
+        "선지3",
+        "선지4",
+        "선지5"
+      ],
+      "category_eval": "논증 평가",
+      "category_content": "사회과학",
+      "subcategory": "가설 강화·약화",
+      "trap_category": "상관관계 가설에서 시차와 관련성 자료의 방향을 혼동하는 함정",
+      "trap_keywords": [
+        "시차 일치 여부 확인",
+        "직접 관련 증거 우선"
+      ],
+      "image_path": "/data/images/2022_p15_left.jpg",
+      "answer": 3,
+      "category_detail_types": [
+        "5. 강화 약화 유형",
+        "8. 과학지문유형"
+      ],
+      "has_statute": false
+    },
+    {
+      "number": 30,
+      "question": "질문 placeholder",
+      "passage": "지문 placeholder",
+      "has_box": true,
+      "box_content": "보기 placeholder",
+      "options": [
+        "선지1",
+        "선지2",
+        "선지3",
+        "선지4",
+        "선지5"
+      ],
+      "category_eval": "논증 평가",
+      "category_content": "사회과학",
+      "subcategory": "정책 논쟁 강화·약화",
+      "trap_category": "주장별 핵심 결론과 근거의 연결 방향 혼동",
+      "trap_keywords": [
+        "강화·약화 방향 확인",
+        "주장 대상 구분"
+      ],
+      "image_path": "/data/images/2022_p15_right.jpg",
+      "answer": 2,
+      "category_detail_types": [
+        "1-1. 의견 대립 유형(일반 단선)",
+        "5. 강화 약화 유형"
+      ],
+      "has_statute": false
+    },
+    {
+      "number": 31,
+      "question": "질문 placeholder",
+      "passage": "지문 placeholder",
+      "has_box": true,
+      "box_content": "보기 placeholder",
+      "options": [
+        "선지1",
+        "선지2",
+        "선지3",
+        "선지4",
+        "선지5"
+      ],
+      "category_eval": "분석 및 재구성",
+      "category_content": "사회과학",
+      "subcategory": "실험 설계·가설 비교",
+      "trap_category": "가설별 예측 차이를 소득효과와 타인 기부 대체효과로 혼동하는 함정",
+      "trap_keywords": [
+        "총기부액 기준 비교",
+        "소득변화와 대체효과 구분"
+      ],
+      "image_path": "/data/images/2022_p16_left.jpg",
+      "answer": 2,
+      "category_detail_types": [
+        "9. 과학실험유형",
+        "5. 강화 약화 유형"
+      ],
+      "has_statute": false
+    },
+    {
+      "number": 32,
+      "question": "질문 placeholder",
+      "passage": "지문 placeholder",
+      "has_box": true,
+      "box_content": "보기 placeholder",
+      "options": [
+        "선지1",
+        "선지2",
+        "선지3",
+        "선지4",
+        "선지5"
+      ],
+      "category_eval": "분석 및 재구성",
+      "category_content": "논리학·수학",
+      "subcategory": "조건배치 추론",
+      "trap_category": "수량 비교와 조건결합에서의 경우누락 함정",
+      "trap_keywords": [
+        "가능한 경우 완전탐색",
+        "같은 나라 조건 결합"
+      ],
+      "image_path": "/data/images/2022_p16_right.jpg",
+      "answer": 2,
+      "category_detail_types": [
+        "7. 퀴즈 유형"
+      ],
+      "has_statute": false
+    },
+    {
+      "number": 33,
+      "question": "질문 placeholder",
+      "passage": "지문 placeholder",
+      "has_box": false,
+      "box_content": "",
+      "options": [
+        "선지1",
+        "선지2",
+        "선지3",
+        "선지4",
+        "선지5"
+      ],
+      "category_eval": "추론",
+      "category_content": "논리학·수학",
+      "subcategory": "수리 추론",
+      "trap_category": "순위조건과 총합조건을 결합한 경우의 수 누락",
+      "trap_keywords": [
+        "1차·2차를 분리해 계산",
+        "순위와 총합 함께 확인"
+      ],
+      "image_path": "/data/images/2022_p17_left.jpg",
+      "answer": 4,
+      "category_detail_types": [
+        "7. 퀴즈 유형"
+      ],
+      "has_statute": false
+    },
+    {
+      "number": 34,
+      "question": "질문 placeholder",
+      "passage": "지문 placeholder",
+      "has_box": true,
+      "box_content": "보기 placeholder",
+      "options": [
+        "선지1",
+        "선지2",
+        "선지3",
+        "선지4",
+        "선지5"
+      ],
+      "category_eval": "추론",
+      "category_content": "논리학·수학",
+      "subcategory": "진술 참거짓 추론",
+      "trap_category": "각 인물별로 한 문장만 참이라는 개별 조건과 전체 범인 수 조건의 혼동",
+      "trap_keywords": [
+        "인물별 1참1거짓",
+        "범인 수 일관성"
+      ],
+      "image_path": "/data/images/2022_p17_right.jpg",
+      "answer": 3,
+      "category_detail_types": [
+        "7. 퀴즈 유형"
+      ],
+      "has_statute": false
+    },
+    {
+      "number": 35,
+      "question": "질문 placeholder",
+      "passage": "지문 placeholder",
+      "has_box": true,
+      "box_content": "보기 placeholder",
+      "options": [
+        "선지1",
+        "선지2",
+        "선지3",
+        "선지4",
+        "선지5"
+      ],
+      "category_eval": "추론",
+      "category_content": "논리학·수학",
+      "subcategory": "기대값 비교 추론",
+      "trap_category": "조건 변경별 기대값 재계산 누락",
+      "trap_keywords": [
+        "각 경우 기대값 재계산",
+        "기준 확률 변화 주의"
+      ],
+      "image_path": "/data/images/2022_p18_left.jpg",
+      "answer": 5,
+      "category_detail_types": [
+        "7. 퀴즈 유형",
+        "6. 그래프 해석 유형"
+      ],
+      "has_statute": false
+    },
+    {
+      "number": 36,
+      "question": "질문 placeholder",
+      "passage": "지문 placeholder",
+      "has_box": false,
+      "box_content": "",
+      "options": [
+        "선지1",
+        "선지2",
+        "선지3",
+        "선지4",
+        "선지5"
+      ],
+      "category_eval": "분석 및 재구성",
+      "category_content": "인문학",
+      "subcategory": "논증 구조 분석",
+      "trap_category": "중간결론과 최종결론 혼동",
+      "trap_keywords": [
+        "중간결론 표시",
+        "근거-결론 방향 확인"
+      ],
+      "image_path": "/data/images/2022_p18_right.jpg",
+      "answer": 1,
+      "category_detail_types": [
+        "4. 논증 구조 유형"
+      ],
+      "has_statute": false
+    },
+    {
+      "number": 37,
+      "question": "질문 placeholder",
+      "passage": "지문 placeholder",
+      "has_box": false,
+      "box_content": "",
+      "options": [
+        "선지1",
+        "선지2",
+        "선지3",
+        "선지4",
+        "선지5"
+      ],
+      "category_eval": "추론",
+      "category_content": "논리학·수학",
+      "subcategory": "인과관계와 조건부 독립",
+      "trap_category": "매개 원인과 공통 원인을 일반 규칙에 대입할 때 결과가 아닌 사건 조건을 혼동하는 함정",
+      "trap_keywords": [
+        "결과 아닌 사건 조건 확인",
+        "공통원인·매개원인 구분"
+      ],
+      "image_path": "/data/images/2022_p19_left.jpg",
+      "answer": 5,
+      "category_detail_types": [
+        "4. 논증 구조 유형",
+        "10. 기타 추론 유형"
+      ],
+      "has_statute": false
+    },
+    {
+      "number": 38,
+      "question": "질문 placeholder",
+      "passage": "지문 placeholder",
+      "has_box": true,
+      "box_content": "보기 placeholder",
+      "options": [
+        "선지1",
+        "선지2",
+        "선지3",
+        "선지4",
+        "선지5"
+      ],
+      "category_eval": "논증 평가",
+      "category_content": "자연과학·기술",
+      "subcategory": "실험 설계와 가설 강화",
+      "trap_category": "가설의 핵심 변수와 통제되지 않은 변수 혼동",
+      "trap_keywords": [
+        "장내 세균 변수 분리",
+        "바이러스 감염 여부 구분"
+      ],
+      "image_path": "/data/images/2022_p19_right.jpg",
+      "answer": 3,
+      "category_detail_types": [
+        "9. 과학실험유형",
+        "5. 강화 약화 유형"
+      ],
+      "has_statute": false
+    },
+    {
+      "number": 39,
+      "question": "질문 placeholder",
+      "passage": "지문 placeholder",
+      "has_box": true,
+      "box_content": "보기 placeholder",
+      "options": [
+        "선지1",
+        "선지2",
+        "선지3",
+        "선지4",
+        "선지5"
+      ],
+      "category_eval": "논증 평가",
+      "category_content": "자연과학·기술",
+      "subcategory": "가설 강화·약화",
+      "trap_category": "가설의 핵심 원인(십이지장 우회와 항인크레틴 존재)과 사례의 방향 혼동",
+      "trap_keywords": [
+        "우회 여부 확인",
+        "강화·약화 방향 주의"
+      ],
+      "image_path": "/data/images/2022_p20_left.jpg",
+      "answer": 1,
+      "category_detail_types": [
+        "8. 과학지문유형",
+        "5. 강화 약화 유형"
+      ],
+      "has_statute": false
+    },
+    {
+      "number": 40,
+      "question": "질문 placeholder",
+      "passage": "지문 placeholder",
+      "has_box": true,
+      "box_content": "보기 placeholder",
+      "options": [
+        "선지1",
+        "선지2",
+        "선지3",
+        "선지4",
+        "선지5"
+      ],
+      "category_eval": "추론",
+      "category_content": "자연과학·기술",
+      "subcategory": "생명과학 실험결과 해석",
+      "trap_category": "파란 세포 수 변화와 세포 크기 변화를 혼동하는 함정",
+      "trap_keywords": [
+        "세포 수와 크기 구분",
+        "표의 시점 비교"
+      ],
+      "image_path": "/data/images/2022_p20_right.jpg",
+      "answer": 3,
+      "category_detail_types": [
+        "9. 과학실험유형",
+        "6. 그래프 해석 유형"
+      ],
+      "has_statute": false
+    }
+  ]
+}
